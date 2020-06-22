@@ -35,6 +35,14 @@ A card matching game app with a Hollywood movie theme
 
 ## 開発環境
 
+- Mac OS X 10.13.6(High Sierra)
+- Xcode ver. Version 10.1 (10B61)
+- Simulator ver. Version 10.1
+- Swift
+
+
+## Author
+- [Twitter](https://twitter.com/ronjeff7)
 
 
 
