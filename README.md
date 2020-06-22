@@ -30,7 +30,7 @@ A card matching game app with a Hollywood movie theme
 
 ![](MatchingHollywood111.gif)
 
-![](MatchingHollywood222.gif)
+![](MatchingHollywood112.gif)
 
 
 ## 開発環境
