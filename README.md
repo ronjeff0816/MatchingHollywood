@@ -40,12 +40,19 @@ A card matching game app with a Hollywood movie theme
 
 ## 工夫した点 (Designing Points)
 
-- マッチしたアイテムは画面から消され、ユーザーが残りのカードに集中できるようにしました
+- マッチしたアイテムはビューから消され、ユーザーが残りのカードに集中できるようにしました
 - (When cards are matched, it will be eliminated from the view to concentrate on other umatched cards )
 <p align="center">
   <img src="https://i.gyazo.com/4e8666ac98a0bc09157f80be2a4a2b37.png" width=70%> 
   <img src="https://i.gyazo.com/92a44598f1985fb3e2f46f6c7d5ab261.png" width=70%>  
 </p> 
+<br>
+
+- 毎回ランダムにカードが配置されるようにしました
+- (For every play, cards are set on random positions)
+<p align="center">
+  <img src="https://i.gyazo.com/8f50124395f82cf0c1f9a40d30bcacbc.png" width=90%>   
+</p>
 <br>
 
 - タイマーはミリ秒単位で表示させ、ユーザーによりワクワク感を与えるようにしました
