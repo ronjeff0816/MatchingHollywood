@@ -26,11 +26,12 @@ A card matching game app with a Hollywood movie theme
   <img src="" width=70%>  
 </p> 
 
-### 動作確認（Movement of the app）
-<p align="center">
-  <img src="" width=70%>  
-</p>
+***DEMO:***
 
+![Demo](https://image-url.gif)
+
+
+## 開発環境
 
 
 
