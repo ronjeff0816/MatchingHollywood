@@ -15,16 +15,15 @@ A card matching game app with a Hollywood movie theme
 <p align="center">
   <img src="https://i.gyazo.com/bbde9a98620050c1e7b121c0bff9e6aa.png" width=70%>  
 </p>
-![MatchingHollywood1](https://user-images.githubusercontent.com/64060667/85240169-17652f00-b472-11ea-809a-b0064dfb02e4.png)
 
 ### マッチした！（It matched!）
 <p align="center">
-  <img src="" width=70%>  
+  <img src="https://i.gyazo.com/61813aaca9176f47032723c60795411d.png" width=70%>  
 </p>
 
 ### 終了！ドンマイ...（Game Over! sorry...）
 <p align="center">
-  <img src="" width=70%>  
+  <img src="https://i.gyazo.com/c85360a0a824cf7cacfe5b0f9bfa03f1.png" width=70%>  
 </p> 
 
 ***DEMO:***
