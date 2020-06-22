@@ -12,9 +12,7 @@ A card matching game app with a Hollywood movie theme
 <br>
 ## :iphone: How it looks
 ### ゲームスタート！（Game Start!） 
-<p align="center">
-  <img src="" width=70%>  
-</p>
+![MatchingHollywood1](https://user-images.githubusercontent.com/64060667/85240169-17652f00-b472-11ea-809a-b0064dfb02e4.png)
 
 ### マッチした！（It matched!）
 <p align="center">
@@ -28,7 +26,6 @@ A card matching game app with a Hollywood movie theme
 
 ***DEMO:***
 
-![Demo](https://image-url.gif)
 
 
 ## 開発環境
